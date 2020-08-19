@@ -8,6 +8,7 @@ To use complex.py import it into your script with "from complex import Complex".
 To then create a complex number use use the command Complex(re, im)
 where re is the real part, and im is the imaginary part of the number.
 Example:
+
 	>>> from complex import Complex
 	>>> a = Complex(2,3)
 	>>> print(a)
