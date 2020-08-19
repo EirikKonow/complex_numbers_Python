@@ -16,8 +16,10 @@ Example:
 	
 
 test_complex.py:
+
 To test_complex.py simply run it from the command line.
 No messages will be shown is all tests pass.
 Example:
+
 	Terminal$  python test_complex.py 
 	Terminal$  
